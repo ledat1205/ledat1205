@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I’m currently learning AI/ML and Data Science.
 
 <!--
 **ledat1205/ledat1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31da3yrog5c4u6wzkx5uijxonija&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31da3yrog5c4u6wzkx5uijxonija&redirect=true)
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31da3yrog5c4u6wzkx5uijxonija&cover_image=true&theme=default" width="250" /></div>  
