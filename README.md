@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<div align="center"><img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d3x3wttipsj5u6b4io4ga2i3km&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)" width="250" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=314vqaoazf4gbxl2zydtiukr4qoi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="250" /></div>  
